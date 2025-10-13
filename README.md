@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student | Roll No: 2023005814
+- 🎓 Computer Science Student 
 - 💻 Learning algorithms, data structures, and software development
 - 🌱 Currently exploring: Python, Java, and System Design
 - 🎯 Goal: Build impactful software solutions

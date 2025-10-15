@@ -79,7 +79,7 @@
   CGPA: 7.0  
 
 - **Kendriya Vidyalaya, Dehradun, UK**  
-  XII (Apr 2022)  
+  XII   
   CGPA: 8.4  
 
 ## 📫 Connect with Me

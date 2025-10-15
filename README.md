@@ -6,12 +6,14 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student | Roll No: 2023005814
-- 💻 Learning algorithms, data structures, and software development
-- 🌱 Currently exploring: Python, Java, and System Design
-- 🎯 Goal: Build impactful software solutions
+- 🎓 **Computer Science Student** at GITAM University (CGPA: 9.17)
+- 🌱 **Currently exploring:** Python, Java, System Design, and Cloud Technologies
+- 🎯 **Goal:** Build impactful software solutions
+- 🏆 **Achievements:**
+  - Shortlisted for **J.P. Morgan Chase Code for Good 2025**
+  - Ranked in the **Top 2%** of my batch in 1st and 2nd year; awarded ₹50,000 for academic excellence
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,9 +24,15 @@
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
+### Frameworks & Libraries
+- **Frameworks:** FastAPI
+- **Libraries:** Pandas, NumPy, Matplotlib, Requests, SQLite
+
+## � GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rekcilyssup&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -42,9 +50,37 @@
 
 ## 📈 Recent Projects
 
-- 🔢 **[Fermat Prime Factorization](https://github.com/rekcilyssup/fermat-prime-factorization)** - Implementation of UPF algorithm using Fermat's method
-- 🌐 **[DSA Webscraping](https://github.com/rekcilyssup/DSA-Webscraping-from-reddit)** - Data scraping and analysis project
-- 💡 **[Learning GitHub](https://github.com/rekcilyssup/learning-GitHub)** - Exploring Git and GitHub workflows
+- 🔢 **[Reddit DSA Post Scraper](https://github.com/rekcilyssup/DSA-Webscraping-from-reddit)**  
+  - Developed a web scraping tool using Python’s requests and BeautifulSoup to extract top DSA discussions from Reddit.
+  - Parsed post titles, scores, and comment counts dynamically from Reddit search results.
+  - Implemented custom headers & request timeouts to bypass bot detection and ensure stable data retrieval.
+
+- 🚍 **Bus Pass Authentication**  
+  - **Computer Vision Version:**  
+    - Implemented Python-based solution using OpenCV and Tesseract OCR for contactless pass verification.
+    - Designed region-specific scanning algorithm to optimize text recognition from various pass formats.
+  - **RFID Version:**  
+    - Developed Arduino-based system with RFID readers for instant pass verification.
+    - Integrated servo motor control for automated physical access enforcement.
+
+- 🌱 **Automated Soil Moisture Monitoring System**  
+  - Developed an Arduino-based soil moisture monitoring system with multi-display output and alert functionality.
+  - Implemented real-time soil moisture sensing using capacitive sensors.
+  - Designed a dual-display interface combining LCD and 7-segment display for comprehensive data visualization.
+
+## 📚 Education
+
+- **GITAM University, Visakhapatnam, AP**  
+  Bachelor of Computer Science and Engineering (Aug 2023 – Aug 2027)  
+  CGPA: 9.17  
+
+- **IIT Madras, Visakhapatnam, AP**  
+  BS in Data Science [Foundational Level] (May 2024)  
+  CGPA: 7.0  
+
+- **Kendriya Vidyalaya, Dehradun, UK**  
+  XII (Apr 2022)  
+  CGPA: 8.4  
 
 ## 📫 Connect with Me
 

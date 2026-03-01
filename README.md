@@ -48,26 +48,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rekcilyssup&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📈 Recent Projects
-
-- 🔢 **[Reddit DSA Post Scraper](https://github.com/rekcilyssup/DSA-Webscraping-from-reddit)**  
-  - Developed a web scraping tool using Python’s requests and BeautifulSoup to extract top DSA discussions from Reddit.
-  - Parsed post titles, scores, and comment counts dynamically from Reddit search results.
-  - Implemented custom headers & request timeouts to bypass bot detection and ensure stable data retrieval.
-
-- 🚍 **Bus Pass Authentication**  
-  - **Computer Vision Version:**  
-    - Implemented Python-based solution using OpenCV and Tesseract OCR for contactless pass verification.
-    - Designed region-specific scanning algorithm to optimize text recognition from various pass formats.
-  - **RFID Version:**  
-    - Developed Arduino-based system with RFID readers for instant pass verification.
-    - Integrated servo motor control for automated physical access enforcement.
-
-- 🌱 **Automated Soil Moisture Monitoring System**  
-  - Developed an Arduino-based soil moisture monitoring system with multi-display output and alert functionality.
-  - Implemented real-time soil moisture sensing using capacitive sensors.
-  - Designed a dual-display interface combining LCD and 7-segment display for comprehensive data visualization.
-
 ## 📚 Education
 
 - **GITAM University, Visakhapatnam, AP**  

@@ -6,10 +6,10 @@
 
 ##  About Me
 
-- 🎓 **Computer Science Student** at GITAM University (CGPA: 9.17)
-- 🌱 **Currently exploring:** Python, Java, System Design, and Cloud Technologies
-- 🎯 **Goal:** Build impactful software solutions
-- 🏆 **Achievements:**
+-  **Computer Science Student** at GITAM University (CGPA: 9.17)
+-  **Currently exploring:** Python, Java, System Design, and Cloud Technologies
+-  **Goal:** Build impactful software solutions
+-  **Achievements:**
   - Shortlisted for **J.P. Morgan Chase Code for Good 2025**
   - Ranked in the **Top 2%** of my batch in 1st and 2nd year; awarded ₹50,000 for academic excellence
 

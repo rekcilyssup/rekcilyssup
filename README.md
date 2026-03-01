@@ -1,10 +1,10 @@
-# Hi there, I'm Aravind Rao 👋
+# Hi there, I'm Aravind Rao 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 **Computer Science Student** at GITAM University (CGPA: 9.17)
 - 🌱 **Currently exploring:** Python, Java, System Design, and Cloud Technologies
@@ -13,7 +13,7 @@
   - Shortlisted for **J.P. Morgan Chase Code for Good 2025**
   - Ranked in the **Top 2%** of my batch in 1st and 2nd year; awarded ₹50,000 for academic excellence
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,12 +43,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekcilyssup&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rekcilyssup&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📚 Education
+##  Education
 
 - **GITAM University, Visakhapatnam, AP**  
   Bachelor of Computer Science and Engineering (Aug 2023 – Aug 2027)  
@@ -62,7 +62,7 @@
   XII   
   CGPA: 8.4  
 
-## 📫 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravindrao1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rekcilyssup)
